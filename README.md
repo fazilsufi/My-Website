@@ -1,5 +1,5 @@
 # My-Website
-This is my first wesite
+This is my first website
 Auther - Fazil
 <!DOCTYPE html>
 <html lang="en">
